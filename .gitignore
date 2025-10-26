@@ -1,0 +1,27 @@
+# Node dependencies
+node_modules/
+package-lock.json
+
+# Playwright stuff
+playwright-report/
+test-results/
+blob-report/
+trace.zip
+*.zip
+playwright.config.js
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS / IDE files
+.DS_Store
+.idea/
+.vscode/
+
+# Output folders (if any)
+dist/
+build/
